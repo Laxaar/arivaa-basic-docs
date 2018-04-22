@@ -1,6 +1,6 @@
 # Introduction
 
-Arivaa is a series of projects meant to solve real-life development problems. It does so by providing a set of UI Components and some architectures meant to solve common problems during development so that a developer can focus on the application specific login, and cull out extraneous elements. Arivaa is not meant to be restricted to a generalised framework. Instead, Projects will be added under Arivaa in the future, which will cut across various verticles like E-Commerce, the Food Industry, Travel etc. to solve specific practical issues. We are starting out with a simple starter project named Arivaa Basic which has basic features and a end to end architecture that is needed for any production scale mobile application.
+Arivaa is a series of projects meant to solve real-life development problems. It does so by providing a set of UI Components and some architectures meant to solve common problems during development so that a developer can focus on the application specific login, and cull out extraneous elements. Arivaa is not meant to be restricted to a generalised framework. Instead, Projects will be added under Arivaa in the future, which will cut across various verticles like E-Commerce, the Food Industry, Travel etc. to solve specific practical issues. We are starting out with a simple starter project named Arivaa Basic which has basic features and a end to end architecture that is needed for any production scale mobile application. 
 
 ## Goals
 
