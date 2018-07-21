@@ -7,7 +7,7 @@
 
 ## System Requirements
 
-1. Node.js version &gt;=6.0 should be installed. Download [here](https://nodejs.org/en/download/)
+1. Node.js version &gt;=6.0 and &lt;=8.5.x should be installed. Download [here](https://nodejs.org/en/download/) \(**Note -  Please don't use Node 10.x.x since it is not compatible with most of expo and react native yet.**\)
 2. NPM Version &gt;=3.0 should be installed. 
 3. React Native CLI.  Install using `npm install -g react-native-cli`. For help, please check this [link](https://facebook.github.io/react-native/docs/getting-started.html).
 4. Expo should be installed. Follow the instructions at this [link](https://expo.io/learn).
@@ -17,7 +17,7 @@
 
 ## Setting up
 
-1. Extract the code.zip folder.
+1. Extract the code.zip folder. \(**Note -&gt; If you copy the files from extracted folder, Do remember to copy the hidden files like .babelrc etc. Else you might face issues while starting the project.**\)
 2. There are 2 ways to open this project on a simulator. 
    1. Via Expo Client
       1. Open the expo client on your system.

@@ -133,7 +133,7 @@ It should be a array of form elements. Each form element object has the below fo
 
 **options** : Options supported by [getFieldDecorator](https://github.com/react-component/form) method of rc-form. Used to set properties for input like initialValue, validation rules etc.
 
-**customElement **: Currently in this version, We don't support all the elements from antd mobile as a part of input component. So for flexibility, You can pass this property when you want to use any unsupported element from antd design library. e.g suppose we want to use TextareaItem as a form element in this form component. We can use it as below :
+**customElement** : Currently in this version, We don't support all the elements from antd mobile as a part of input component. So for flexibility, You can pass this property when you want to use any unsupported element from antd design library. e.g suppose we want to use TextareaItem as a form element in this form component. We can use it as below :
 
 ```text
 {

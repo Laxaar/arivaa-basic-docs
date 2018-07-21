@@ -20,9 +20,7 @@ Configuration is done under src/config/analytics.js. \(You will need to change t
 
 **Detailed Reference Docs :**
 
-1. {% embed data="{\"url\":\"https://docs.expo.io/versions/v26.0.0/sdk/segment\",\"type\":\"link\",\"title\":\"Segment - Expo Documentation\",\"icon\":{\"type\":\"icon\",\"url\":\"https://docs.expo.io/static/images/favicon.ico\",\"width\":32,\"height\":32,\"aspectRatio\":1}}" %}
-2. {% embed data="{\"url\":\"https://segment.com/docs/\",\"type\":\"link\",\"title\":\"Documentation Documentation - Segment\",\"description\":\"The technical documentation for Segment.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://segment.com/build/public/public/images/touch-icon.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://segment.com/build/public/public/images/open-graph.png\",\"width\":1200,\"height\":1200,\"aspectRatio\":1}}" %}
-
+1. 2. 
 
 
 

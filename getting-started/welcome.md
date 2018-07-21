@@ -14,9 +14,9 @@ In this documentation, you will find following things
 * Components and its usage in Arivaa Application
 * License and Privacy Policy
 
-**Important Update : **
+**Important Update :** 
 
-**22nd April 2018 -** **Arivaa Basic new version is rolled out. Check the change log **[**here**](../overview/release-notes.md)
+**22nd April 2018 -** **Arivaa Basic new version is rolled out. Check the change log** [**here**](../overview/changelog.md)
 
 **Quick Links**
 

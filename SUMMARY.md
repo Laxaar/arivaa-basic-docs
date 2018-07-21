@@ -15,7 +15,7 @@
 * [Arivaa Basic with Firebase](overview/arivaa-basic-with-firebase.md)
 * [Try out Arivaa](overview/try-out-arivaa.md)
 * [Technologies](overview/technologies.md)
-* [Changelog](overview/release-notes.md)
+* [Changelog](overview/changelog.md)
 * [Future Updates](overview/future-updates.md)
 * [Support and Contact](overview/support-and-contact.md)
 
@@ -31,7 +31,7 @@
 
 * [Push Notifications](customize/push-notifications.md)
 * [Facebook Ads](customize/facebook-ads.md)
-* [Admob](customize/untitled.md)
+* [Admob](customize/admob.md)
 * [Analytics](customize/analytics.md)
 * [Social Authentication](customize/social-authentication.md)
 

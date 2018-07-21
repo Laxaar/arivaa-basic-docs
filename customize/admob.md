@@ -13,7 +13,7 @@ Note - For Admob to work, Please keep in mind that the app should meet the below
 3. You need to create ad units in admob console.
 4. Configure the unitIds in src/config/admob.js.\(Optional - if you create your own implementation\)
 
-**For Sample Implementation, Check the container admob under src/js/containers/admob. **
+**For Sample Implementation, Check the container admob under src/js/containers/admob.** 
 
 ![Banner Ad is on Top](../.gitbook/assets/screen-shot-2018-04-22-at-7.18.21-pm.png)
 
